@@ -1,0 +1,120 @@
+cd Python_Web/
+  224  ls
+  225  python3 index.py
+  226  clear
+  227  pip3 install virtualenv
+  228  clear
+  229  python3 -m venv venv
+  230  sudo apt-get install python3/venv
+  231  sudo apt-get install python3-venv
+  232  clear
+  233  python3 -m venv venv
+  234  cd venv
+  235  clear
+  236  ls
+  237  clear
+  238  venv/Scripts
+  239  clear
+  240  cd venv/Share
+  241  clear
+  242  cd share
+  243  clear
+  244  ls
+  245  python
+  246  clear
+  247  cd ..
+  248  clear
+  249  ls
+  250  source venv/bin/activate
+  251  clear
+  252  pip3 --version
+  253  clear
+  254  pip3 install flask
+  255  clear
+  256  python3 src/index.py
+  257  clear
+  258  deactivate
+  259  clear
+  260  cd ..
+  261  cd Python_Web/
+  262  clear
+  263  source venv/bin/activate
+  264  pip install gunicorn
+  265  clear
+  266  deactivate
+  267  clear
+  268  source venv/bin/activate
+  269  python3 --version
+  270  pip freeze
+  271  clear
+  272  git --version
+  273  clear
+  274  deactivate
+  275  clear
+  276  ls
+  277  clear
+  278  cd src/
+  279  clear
+  280  git init
+  281  clear
+  282  git init
+  283  git add .
+  284  git status
+  285  git commit -m "First commit to Heroku"
+  286  git config --global user.email "detezenguerra@gmail.com"
+  287  git config --global user.name "Dennys Tezen"
+  288  git commit -m "First commit to Heroku"
+  289  heroku create python-test
+  290  python create
+  291  heroku create
+  292  heroku git:remote salty-wildwood-83789
+  293  git push heroku master
+  294  git commit
+  295  git add .
+  296  git status
+  297  git commit -m "Fixed issue"
+  298  git push heroku master
+  299  git add .
+  300  git commit -m "Fixed issue"
+  301  git push heroku master
+  302  pip3 env/bin/activate
+  303  clear
+  304  cd  env
+  305  clear
+  306  cd ..
+  307  pip3 env/bin/activate
+  308  clear
+  309  pip3 venv/bin/activate
+  310  source venv/bin/activate
+  311  pip3 install -r requirements.txt
+  312  clear
+  313  deactivate
+  314  cd Py
+  315  cd src/
+  316  clear
+  317  cd ..
+  318  pip install -r requirements.txt
+  319  pip3 install -r requirements.txt
+  320  cd src/
+  321  source venv/bin/activate
+  322  clear
+  323  cd ..
+  324  source venv/bin/activate
+  325  cd src/
+  326  clear
+  327  pip install -r requirements.txt
+  328  clear
+  329  deativate
+  330  deactivate
+  331  clear
+  332  git add .
+  333  git commit -m "Fixed Python issue"
+  334  git push heroku master
+  335  git .
+  336  git add .
+  337  git commit -m "python fixed"
+  338  git push heroku master
+  339  clear
+  340  h
+  341  history
+
